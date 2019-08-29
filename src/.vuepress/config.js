@@ -15,7 +15,7 @@ module.exports = {
 			{ text: 'Archive', link: '/archive/' },
 			{ text: 'RSS Feed', link: '/rss.xml' }
 		],
-		logo: '/vuepress-blog-logo.png',
+		logo: '/hero.jpg',
 		docsDir: 'src',
 		pageSize: 5,
 		startPage: 0

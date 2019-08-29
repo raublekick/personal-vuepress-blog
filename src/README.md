@@ -1,6 +1,7 @@
 ---
 title: Home
 home: true
+heroImage: /hero.jpg
 heroText: (John) Andrew Raub
 tagline: Web Application Developer
 actionText: Resume
