@@ -34,7 +34,8 @@
         :key="index"
       >
         <h2>{{ feature.title }}</h2>
-        <p>{{ feature.details }}</p>
+        <p v-html="feature.details"></p>
+        <a v-if="feature.link" :href="feature.link">{{feature.linkLabel}}</a>
       </div>
     </div>
 
